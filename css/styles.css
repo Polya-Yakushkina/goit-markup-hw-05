@@ -608,16 +608,11 @@ address {
     margin-bottom: 16px;
 }
 
-.inputs {
-    display: flex;
-    flex-direction: column;
-    widows: 360px;
-    height: auto;
-    gap: 8px;
+.modal-field {
+    margin-bottom: 8px;
 }
 
 .label {
-    height: 14px;
     color: #8E8F99;
     font-size: 12px;
     line-height: 1.17;
