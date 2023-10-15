@@ -482,7 +482,7 @@ address {
     fill: #f4f4fd;
 }
 
-.footer-input-wrap {
+.footer-form {
     display: flex;
     justify-content: center;
     gap: 24px;
